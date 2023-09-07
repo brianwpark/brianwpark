@@ -4,7 +4,9 @@
  
 ![Brian's github stats](https://github-readme-stats.vercel.app/api?username=brianwpark&show_icons=true&theme=radical)
 
- ![Brian's vatsim stat](https://my.vatsim.net/indicators/1472236)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?brianwpark)](https://github.com/brianwpark/github-readme-activity-graph)
+
+![Brian's vatsim stat](https://my.vatsim.net/indicators/1472236)
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brianwpark&layout=compact&theme=dracula)](https://github.com/brianwpark)
  
