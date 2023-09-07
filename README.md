@@ -4,7 +4,7 @@
  
 ![Brian's github stats](https://github-readme-stats.vercel.app/api?username=brianwpark&show_icons=true&theme=radical)
 
- ![Brian's vatsim stat](https://my.vatsim.net/indicators/1472236)
+ ![Brian's vatsim stat](https://my.vatsim.net/indicators/147223
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brianwpark&layout=compact&theme=dracula)](https://github.com/brianwpark)
  
